@@ -1,2 +1,6 @@
-executar o comando yarn install ou npm install
-startar o front : yarn start ou npm start
+# install app
+yarn install // npm install
+
+# start app
+
+yarn start // npm start
